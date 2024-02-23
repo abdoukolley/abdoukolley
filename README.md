@@ -3,8 +3,7 @@
 ## Junior Software Engineer | Junior DevOps Engineer
 
 Welcome to my GitHub page! I am a software engineer with a diverse skill set, specializing in front-end development with programs such as React (JavaScript), HTML and CSS. 
-JavaScript is my strongest asset due to its ability to contribute massively in font-end and back-end development. Additionally, I have picked up skills in DevOps through an
-intensive bootcamp where I gained skills in Docker, Terraform, Kubernetes and implementing Azure.
+Furthermore, I have picked up skills in DevOps through an intensive bootcamp where I gained skills in Docker, Terraform, Kubernetes and implementing Azure.
 
 After various courses, bootcamps and watching hours of content on the coding university YouTube, I am ready to start my journey in the software engineering world! 😁
 

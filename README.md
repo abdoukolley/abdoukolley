@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hello, I'm Abdou 👋
 
+## Junior Software Engineer | Junior DevOps Engineer
 <!--
 **abdoukolley/abdoukolley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

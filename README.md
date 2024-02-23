@@ -7,6 +7,8 @@ Furthermore, I have picked up skills in DevOps through an intensive bootcamp whe
 
 After various courses, bootcamps and watching hours of content on the coding university we call YouTube, I am ready to start my journey in the software engineering world and become a full time coder! 😁
 
+🚀 ##My Journey
+
 <!--
 **abdoukolley/abdoukolley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

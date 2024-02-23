@@ -1,6 +1,4 @@
-<div style="text align: center">
 # Hello, I'm Abdou 👋
-</div>
 
 ## Junior Software Engineer | Junior DevOps Engineer
 

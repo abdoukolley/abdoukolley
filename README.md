@@ -13,15 +13,20 @@ My passion for coding started during my time at university when I started a Pyth
 From that course onwards, I started focusing particularly towards learning various coding languages, which led to the discovery that my long-term goal would to become a full-stack software engineer!
 
 ## 💻 Technical Skills 
-- Python               
-- Javascript (React, Node.js, Express, Redux)
+- Python (Django, Pygame, Matplotlib)           
+- Javascript (React, Typescript, Node.js, Express, Redux)
 - HTML
 - CSS
 - Docker
 - Kubernetes
 - Terraform
-- Azure
+- Azure (Azure DevOps)
 - SQL (PostgreSQL)
+- Linux
+- Git
+
+My skill set lays more towards front-end develpoment, so my plan is to strengthen my back-end skills to push me to my goal of becoming a full-stack software engineer. My next step is to to learn Next.js and further develop my skills with Typescript to make me extremly strong when it comes to using Javascript. 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

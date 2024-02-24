@@ -9,7 +9,7 @@ After various courses, bootcamps and watching hours of content on the coding uni
 
 ## 🚀 My Journey
 
-My passion for coding started during my time at university when I started a Python course for data analytics. Little did I know at the time that this course would lead me into the career path that I find myself in today, software engineering.
+My passion for coding started during my time at university when I started a Python course for data analytics. Furthermore, little did I know at the time that this course would lead me into the career path that I find myself in today, software engineering.
 From that course onwards, I started focusing particularly towards learning various coding languages, which led to the discovery that my long-term goal would to become a full-stack software engineer!
 
 ## 💻 Technical Skills 

@@ -25,7 +25,7 @@ From that course onwards, I started focusing particularly towards learning vario
 - Linux
 - Git
 
-My skill set lays more towards front-end develpoment, so my plan is to strengthen my back-end skills to push me to my goal of becoming a full-stack software engineer. My next step is to to learn Next.js and further develop my skills with Typescript to make me extremly strong when it comes to using Javascript. 
+My skill set lays more towards front-end develpoment, so my plan is to strengthen my back-end skills to push me to my goal of becoming a full-stack software engineer. My next step is to to learn Next.js and further develop my skills with Typescript to become extremly strong in regards to using Javascript. 
 
 ## 🤓 Continuous Learning 
 I am committed to continuous learning and constantly updating my skills to keep up with the latest trends and technologies in the software industry. I am always open to collaborating on projects or discussing new technologies and ideas.

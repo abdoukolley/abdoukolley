@@ -31,7 +31,7 @@ My skill set lays more towards front-end develpoment, so my plan is to strengthe
 I am committed to continuous learning and constantly updating my skills to keep up with the latest trends and technologies in the software industry. I am always open to collaborating on projects or discussing new technologies and ideas.
 
 # 🤙 Contact Me 
-- Portfolio Website: 
+- Portfolio Website: https://abdoukolley.netlify.app/
 - linkedin: www.linkedin.com/in/abdou-kolley
 - Email: abdou.kolley24@gmail.com
 
